@@ -1,4 +1,3 @@
-package questionalg;
 
 import static java.lang.Math.random;
 
